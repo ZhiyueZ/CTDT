@@ -1,5 +1,5 @@
-# CTDT
-Continuous-Time Decision Transformer. AISTATS 2023 (link to be updated). 
+# Continuous-Time Decision Transformer
+Implementation of Continuous-Time Decision Transformer. AISTATS 2023 (link to be updated). 
 
 Our implementation builds on the codebase of [DT](https://github.com/kzl/decision-transformer). We also include the two new survival environments introduced in the paper in `env`. 
 
